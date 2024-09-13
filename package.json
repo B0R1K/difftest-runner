@@ -5,7 +5,10 @@
   "directories": {
     "bin": "./bin"
   },
-  "repository": "http://github.com/intimonkey/difftest-runner.git",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/intimonkey/difftest-runner.git"
+  },
   "keywords": [
     "diff",
     "test",
